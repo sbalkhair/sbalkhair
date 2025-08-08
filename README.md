@@ -1,4 +1,14 @@
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/003099a5-ae41-4118-aff0-5f16ee05e914" />
+
 ## Hi there 👋
+# I'm Saeed Balkhair
+#### 🚀 Full Stack Web Developer
+I can convert your idea to product
+
+Please, Don't hesitate to contact with me 
+[https://x.com/SBALKHAIR]
+
+
 
 <!--
 **sbalkhair/sbalkhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
